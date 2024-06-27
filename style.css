@@ -1,0 +1,26 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: "Roboto";
+    font-size: 30px;
+}
+
+.outer {
+    width: 100vw;
+    height: 100vh;
+    box-sizing: border-box;
+    padding: 20px;
+}
+
+.text-editor {
+    height: 100%;
+    box-sizing: border-box;
+    padding: 20px;
+    border: 4px lightgrey solid;
+    outline: none;
+    border-radius: 25px;
+}
+
+.list-item {
+    display: list-item;
+}
